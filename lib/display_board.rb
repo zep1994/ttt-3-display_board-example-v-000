@@ -1,5 +1,6 @@
 def display_board
-puts ""
+puts "   |   |   "
+puts \n-----------\n
 puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   "
 =======
 "   |   |
