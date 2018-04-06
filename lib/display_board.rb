@@ -1,7 +1,7 @@
 def display_board
   puts "   |   |   "
-  puts "\n-----------\n"
+  puts "-----------"
   puts "   |   |   "
-  puts "\n-----------\n"
+  puts "-----------"
   puts "   |   |   "
 end
